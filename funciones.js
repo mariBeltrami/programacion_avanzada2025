@@ -37,5 +37,5 @@ function actividad2(nombre = "Walter", nombreActividad = "Profesor") {
 
 actividad2("Ernesto", "programación en JavaScript");
 actividad2("Juan", "Desarrollo web");
-actividad2();
+actividad2(); //usando valores por defecto
 

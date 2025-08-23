@@ -24,6 +24,3 @@ console.log(persona2.nombre)
 console.log(persona2.edad)
 console.log(persona2.profesion)
 
-//que es ezto
-persona.assets.avatar.
-
